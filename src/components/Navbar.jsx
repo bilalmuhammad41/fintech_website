@@ -3,7 +3,6 @@ import {logo, close, menu} from '../assets'
 import {navLinks} from "../constants"
 
 
-
 const Navbar = () => {
 
   const [toggle, setToggle] = useState(false)
